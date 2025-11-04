@@ -1,1 +1,2 @@
 Changes made by person 1
+Conflicting changes made by person 2
