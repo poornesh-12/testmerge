@@ -1,2 +1,2 @@
-Changes made by person 1
+Changes made by person 0
 Conflicting changes made by person 2
